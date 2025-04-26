@@ -1,0 +1,1466 @@
+[
+  {
+    "id": "job001",
+    "title": "Senior Frontend Developer",
+    "company": "Airbnb",
+    "skills": [
+      "JavaScript",
+      "React",
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "Redux",
+      "Jest",
+      "Webpack"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job002",
+    "title": "Backend Engineer",
+    "company": "Stripe",
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Docker",
+      "Redis",
+      "AWS",
+      "Microservices"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job003",
+    "title": "Full Stack Developer",
+    "company": "Shopify",
+    "skills": [
+      "Ruby",
+      "Rails",
+      "JavaScript",
+      "React",
+      "GraphQL",
+      "SQL",
+      "Git",
+      "Redis"
+    ],
+    "role_type": "fullstack"
+  },
+  {
+    "id": "job004",
+    "title": "DevOps Engineer",
+    "company": "Netflix",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "AWS",
+      "Terraform",
+      "Jenkins",
+      "Linux",
+      "Python",
+      "Prometheus"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job005",
+    "title": "Data Scientist",
+    "company": "Spotify",
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "SQL",
+      "TensorFlow",
+      "Jupyter",
+      "Data Visualization"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job006",
+    "title": "iOS Developer",
+    "company": "Lyft",
+    "skills": [
+      "Swift",
+      "Objective-C",
+      "Xcode",
+      "UIKit",
+      "CoreData",
+      "REST API",
+      "Git"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job007",
+    "title": "React Native Developer",
+    "company": "Uber",
+    "skills": [
+      "JavaScript",
+      "React Native",
+      "Redux",
+      "TypeScript",
+      "GraphQL",
+      "Jest",
+      "Mobile Development"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job008",
+    "title": "Backend Software Engineer",
+    "company": "Twitter",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "RESTful APIs",
+      "Microservices",
+      "JUnit"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job009",
+    "title": "Frontend Architect",
+    "company": "Slack",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Redux",
+      "Webpack",
+      "Testing",
+      "Performance Optimization",
+      "CSS-in-JS"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job010",
+    "title": "Machine Learning Engineer",
+    "company": "Meta",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "Data Modeling"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job011",
+    "title": "Site Reliability Engineer",
+    "company": "Google",
+    "skills": [
+      "Linux",
+      "Kubernetes",
+      "Python",
+      "Cloud Platforms",
+      "Monitoring",
+      "Alerting",
+      "Bash",
+      "Networking"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job012",
+    "title": "Angular Developer",
+    "company": "Microsoft",
+    "skills": [
+      "TypeScript",
+      "Angular",
+      "RxJS",
+      "SCSS",
+      "NgRx",
+      "Jasmine",
+      "Karma"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job013",
+    "title": "Node.js Developer",
+    "company": "PayPal",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST API",
+      "Authentication",
+      "WebSockets"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job014",
+    "title": "Android Engineer",
+    "company": "Square",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "Android SDK",
+      "MVVM",
+      "Jetpack",
+      "Retrofit",
+      "Room"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job015",
+    "title": "Full Stack JavaScript Developer",
+    "company": "Figma",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "React",
+      "MongoDB",
+      "Redis",
+      "GraphQL",
+      "AWS"
+    ],
+    "role_type": "fullstack"
+  },
+  {
+    "id": "job016",
+    "title": "Cloud Infrastructure Engineer",
+    "company": "Salesforce",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "CloudFormation",
+      "Docker",
+      "Kubernetes",
+      "Python",
+      "CI/CD"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job017",
+    "title": "Data Engineer",
+    "company": "Twilio",
+    "skills": [
+      "Python",
+      "SQL",
+      "Apache Spark",
+      "Airflow",
+      "ETL",
+      "Data Warehousing",
+      "AWS Redshift"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job018",
+    "title": "Vue.js Developer",
+    "company": "GitLab",
+    "skills": [
+      "JavaScript",
+      "Vue.js",
+      "Vuex",
+      "HTML",
+      "CSS",
+      "Webpack",
+      "Jest"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job019",
+    "title": "Ruby Developer",
+    "company": "GitHub",
+    "skills": [
+      "Ruby",
+      "Rails",
+      "PostgreSQL",
+      "Redis",
+      "RSpec",
+      "API Development",
+      "Git"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job020",
+    "title": "Cross-Platform Mobile Developer",
+    "company": "Notion",
+    "skills": [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "RESTful APIs",
+      "State Management",
+      "Mobile UI Design"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job021",
+    "title": "Senior Software Engineer",
+    "company": "Atlassian",
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "React",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "Microservices"
+    ],
+    "role_type": "fullstack"
+  },
+  {
+    "id": "job022",
+    "title": "Data Analyst",
+    "company": "Asana",
+    "skills": [
+      "SQL",
+      "Python",
+      "Pandas",
+      "Tableau",
+      "Power BI",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job023",
+    "title": "DevSecOps Engineer",
+    "company": "HashiCorp",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Security Scanning",
+      "CI/CD",
+      "Python",
+      "Linux"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job024",
+    "title": "Backend Go Developer",
+    "company": "Cloudflare",
+    "skills": [
+      "Go",
+      "Microservices",
+      "RESTful APIs",
+      "Docker",
+      "PostgreSQL",
+      "Redis",
+      "Kafka"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job025",
+    "title": "Frontend Performance Engineer",
+    "company": "Canva",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Web Performance",
+      "Webpack",
+      "Browser APIs",
+      "Performance Testing"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job026",
+    "title": "iOS Lead Developer",
+    "company": "DoorDash",
+    "skills": [
+      "Swift",
+      "SwiftUI",
+      "Combine",
+      "Core Data",
+      "Networking",
+      "Unit Testing",
+      "CI/CD"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job027",
+    "title": "Senior Data Scientist",
+    "company": "LinkedIn",
+    "skills": [
+      "Python",
+      "R",
+      "Machine Learning",
+      "Statistics",
+      "Data Visualization",
+      "SQL",
+      "A/B Testing"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job028",
+    "title": "Infrastructure Architect",
+    "company": "Datadog",
+    "skills": [
+      "AWS",
+      "GCP",
+      "Kubernetes",
+      "Terraform",
+      "Docker",
+      "Networking",
+      "Security"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job029",
+    "title": "GraphQL API Developer",
+    "company": "Apollo",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "GraphQL",
+      "Apollo Server",
+      "TypeScript",
+      "Database Design"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job030",
+    "title": "React Lead Developer",
+    "company": "Airtable",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Redux",
+      "TypeScript",
+      "Performance Optimization",
+      "Architecture"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job031",
+    "title": "Kotlin Mobile Developer",
+    "company": "Instacart",
+    "skills": [
+      "Kotlin",
+      "Android",
+      "Jetpack Compose",
+      "MVVM",
+      "Coroutines",
+      "Dependency Injection"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job032",
+    "title": "Java Engineer",
+    "company": "Oracle",
+    "skills": [
+      "Java",
+      "Spring",
+      "Hibernate",
+      "SQL",
+      "JUnit",
+      "Microservices",
+      "Concurrency"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job033",
+    "title": "Full Stack Ruby Developer",
+    "company": "Basecamp",
+    "skills": [
+      "Ruby",
+      "Rails",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "PostgreSQL",
+      "Hotwire"
+    ],
+    "role_type": "fullstack"
+  },
+  {
+    "id": "job034",
+    "title": "ML Platform Engineer",
+    "company": "OpenAI",
+    "skills": [
+      "Python",
+      "TensorFlow",
+      "PyTorch",
+      "Docker",
+      "Kubernetes",
+      "ML Ops",
+      "CI/CD"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job035",
+    "title": "AWS Cloud Architect",
+    "company": "VMware",
+    "skills": [
+      "AWS",
+      "CloudFormation",
+      "Lambda",
+      "EC2",
+      "S3",
+      "VPC",
+      "IAM",
+      "Security"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job036",
+    "title": "Next.js Developer",
+    "company": "Vercel",
+    "skills": [
+      "JavaScript",
+      "React",
+      "Next.js",
+      "TypeScript",
+      "CSS",
+      "Server Components",
+      "API Routes"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job037",
+    "title": "Python API Developer",
+    "company": "Twitch",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "OAuth",
+      "Docker",
+      "Testing"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job038",
+    "title": "Data Visualization Engineer",
+    "company": "Tableau",
+    "skills": [
+      "JavaScript",
+      "D3.js",
+      "SVG",
+      "HTML",
+      "CSS",
+      "Data Processing",
+      "UX Design"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job039",
+    "title": "Senior Android Developer",
+    "company": "Airbnb",
+    "skills": [
+      "Kotlin",
+      "Java",
+      "Android SDK",
+      "RxJava",
+      "Room",
+      "Retrofit",
+      "Architecture Components"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job040",
+    "title": "Platform Engineer",
+    "company": "Stripe",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "Docker",
+      "CI/CD",
+      "AWS",
+      "Service Mesh",
+      "Observability"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job041",
+    "title": "NLP Engineer",
+    "company": "Grammarly",
+    "skills": [
+      "Python",
+      "NLP",
+      "TensorFlow",
+      "PyTorch",
+      "Machine Learning",
+      "BERT",
+      "Transformers"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job042",
+    "title": "PHP Developer",
+    "company": "Automattic",
+    "skills": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "JavaScript",
+      "REST API",
+      "Unit Testing",
+      "Git"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job043",
+    "title": "Frontend Testing Specialist",
+    "company": "Cypress",
+    "skills": [
+      "JavaScript",
+      "Cypress",
+      "Jest",
+      "React",
+      "Testing Library",
+      "E2E Testing",
+      "CI/CD"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job044",
+    "title": "React Native Lead",
+    "company": "Discord",
+    "skills": [
+      "JavaScript",
+      "React Native",
+      "Redux",
+      "Native Modules",
+      "Performance Tuning",
+      "TypeScript"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job045",
+    "title": "Full Stack Python Developer",
+    "company": "Dropbox",
+    "skills": [
+      "Python",
+      "Django",
+      "React",
+      "PostgreSQL",
+      "Redis",
+      "JavaScript",
+      "AWS"
+    ],
+    "role_type": "fullstack"
+  },
+  {
+    "id": "job046",
+    "title": "Distributed Systems Engineer",
+    "company": "Confluent",
+    "skills": [
+      "Java",
+      "Kafka",
+      "Distributed Systems",
+      "Concurrency",
+      "Linux",
+      "Networking",
+      "Cloud"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job047",
+    "title": "Analytics Engineer",
+    "company": "Snowflake",
+    "skills": [
+      "SQL",
+      "dbt",
+      "Python",
+      "Data Modeling",
+      "ETL",
+      "Business Intelligence",
+      "Looker"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job048",
+    "title": "Cloud Native Developer",
+    "company": "Red Hat",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "Microservices",
+      "Go",
+      "CI/CD",
+      "Linux",
+      "Prometheus"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job049",
+    "title": "Frontend Accessibility Engineer",
+    "company": "Microsoft",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "ARIA",
+      "Accessibility Testing",
+      "Screen Readers",
+      "React"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job050",
+    "title": "Flutter Developer",
+    "company": "Zillow",
+    "skills": [
+      "Dart",
+      "Flutter",
+      "Firebase",
+      "State Management",
+      "UI Design",
+      "Mobile Development"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job051",
+    "title": "Blockchain Developer",
+    "company": "Coinbase",
+    "skills": [
+      "Solidity",
+      "JavaScript",
+      "Blockchain",
+      "Smart Contracts",
+      "Web3.js",
+      "Ethereum",
+      "Security"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job052",
+    "title": "Senior DevOps Engineer",
+    "company": "GitLab",
+    "skills": [
+      "Kubernetes",
+      "Docker",
+      "GitLab CI",
+      "Terraform",
+      "AWS",
+      "Monitoring",
+      "Bash"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job053",
+    "title": "Computer Vision Engineer",
+    "company": "Snap Inc.",
+    "skills": [
+      "Python",
+      "OpenCV",
+      "TensorFlow",
+      "Deep Learning",
+      "Image Processing",
+      "PyTorch"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job054",
+    "title": "Svelte Developer",
+    "company": "Vercel",
+    "skills": [
+      "JavaScript",
+      "Svelte",
+      "SvelteKit",
+      "HTML",
+      "CSS",
+      "State Management",
+      "Accessibility"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job055",
+    "title": "C# .NET Developer",
+    "company": "Stack Overflow",
+    "skills": [
+      "C#",
+      ".NET Core",
+      "SQL Server",
+      "Entity Framework",
+      "RESTful APIs",
+      "Azure"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job056",
+    "title": "Technical Lead",
+    "company": "Shopify",
+    "skills": [
+      "Ruby",
+      "Rails",
+      "JavaScript",
+      "Architecture",
+      "Team Leadership",
+      "Code Review",
+      "Mentoring"
+    ],
+    "role_type": "fullstack"
+  },
+  {
+    "id": "job057",
+    "title": "Database Administrator",
+    "company": "MongoDB",
+    "skills": [
+      "MongoDB",
+      "Database Administration",
+      "Performance Tuning",
+      "Backups",
+      "Scaling",
+      "Security"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job058",
+    "title": "Growth Engineer",
+    "company": "Pinterest",
+    "skills": [
+      "JavaScript",
+      "React",
+      "A/B Testing",
+      "Data Analysis",
+      "Performance Optimization",
+      "SQL"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job059",
+    "title": "Swift Developer",
+    "company": "Apple",
+    "skills": [
+      "Swift",
+      "iOS",
+      "UIKit",
+      "SwiftUI",
+      "Core Data",
+      "XCTest",
+      "App Store Guidelines"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job060",
+    "title": "MLOps Engineer",
+    "company": "Databricks",
+    "skills": [
+      "Python",
+      "ML Pipelines",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Cloud",
+      "Monitoring"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job061",
+    "title": "Security Engineer",
+    "company": "1Password",
+    "skills": [
+      "Security",
+      "AWS",
+      "Networking",
+      "Linux",
+      "Penetration Testing",
+      "OWASP",
+      "Threat Modeling"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job062",
+    "title": "Performance Engineer",
+    "company": "Fastly",
+    "skills": [
+      "Performance Optimization",
+      "CDN",
+      "Web Vitals",
+      "JavaScript",
+      "Networking",
+      "Caching"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job063",
+    "title": "Golang Developer",
+    "company": "Hashicorp",
+    "skills": [
+      "Go",
+      "RESTful APIs",
+      "gRPC",
+      "Microservices",
+      "Docker",
+      "Testing",
+      "CLI Development"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job064",
+    "title": "AR/VR Developer",
+    "company": "Meta",
+    "skills": [
+      "Unity",
+      "C#",
+      "AR",
+      "VR",
+      "3D Modeling",
+      "Mobile Development",
+      "Performance Optimization"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job065",
+    "title": "Big Data Engineer",
+    "company": "Palantir",
+    "skills": [
+      "Spark",
+      "Hadoop",
+      "Python",
+      "SQL",
+      "ETL",
+      "Data Pipeline",
+      "Distributed Systems"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job066",
+    "title": "Infrastructure Security Engineer",
+    "company": "Cloudflare",
+    "skills": [
+      "Security",
+      "Kubernetes",
+      "AWS",
+      "IAM",
+      "Network Security",
+      "Threat Detection",
+      "SIEM"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job067",
+    "title": "UI Designer/Developer",
+    "company": "Adobe",
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Design Systems",
+      "Figma",
+      "React",
+      "User Experience"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job068",
+    "title": "Rust Backend Engineer",
+    "company": "Discord",
+    "skills": [
+      "Rust",
+      "Microservices",
+      "Async Programming",
+      "PostgreSQL",
+      "Performance",
+      "Security"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job069",
+    "title": "Gaming Developer",
+    "company": "Riot Games",
+    "skills": [
+      "C++",
+      "Game Development",
+      "Unity",
+      "3D Graphics",
+      "Optimization",
+      "Networking"
+    ],
+    "role_type": "fullstack"
+  },
+  {
+    "id": "job070",
+    "title": "Recommendation Systems Engineer",
+    "company": "Netflix",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Recommendation Algorithms",
+      "A/B Testing",
+      "Data Analysis"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job071",
+    "title": "Platform Reliability Engineer",
+    "company": "Elastic",
+    "skills": [
+      "Elasticsearch",
+      "Kubernetes",
+      "Observability",
+      "Logging",
+      "Monitoring",
+      "Incident Response"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job072",
+    "title": "CSS Specialist",
+    "company": "Tailwind Labs",
+    "skills": [
+      "CSS",
+      "TailwindCSS",
+      "HTML",
+      "JavaScript",
+      "Responsive Design",
+      "Animation",
+      "Sass"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job073",
+    "title": "API Platform Engineer",
+    "company": "Stripe",
+    "skills": [
+      "RESTful APIs",
+      "GraphQL",
+      "API Design",
+      "API Security",
+      "Node.js",
+      "TypeScript"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job074",
+    "title": "React Native Developer",
+    "company": "Wix",
+    "skills": [
+      "React Native",
+      "JavaScript",
+      "TypeScript",
+      "Redux",
+      "Native Modules",
+      "Mobile UI"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job075",
+    "title": "Data Privacy Engineer",
+    "company": "DuckDuckGo",
+    "skills": [
+      "Privacy",
+      "Security",
+      "Data Protection",
+      "GDPR",
+      "Encryption",
+      "Python",
+      "Compliance"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job076",
+    "title": "Automation Engineer",
+    "company": "Puppet",
+    "skills": [
+      "Automation",
+      "CI/CD",
+      "Python",
+      "Shell Scripting",
+      "Infrastructure as Code",
+      "Jenkins"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job077",
+    "title": "WebGL Developer",
+    "company": "Three.js",
+    "skills": [
+      "WebGL",
+      "Three.js",
+      "JavaScript",
+      "3D Graphics",
+      "Shaders",
+      "Performance Optimization"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job078",
+    "title": "Elixir Developer",
+    "company": "Discord",
+    "skills": [
+      "Elixir",
+      "Phoenix",
+      "Functional Programming",
+      "Distributed Systems",
+      "Real-time Systems"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job079",
+    "title": "Augmented Reality Engineer",
+    "company": "Snapchat",
+    "skills": [
+      "ARKit",
+      "ARCore",
+      "iOS",
+      "Android",
+      "Computer Vision",
+      "3D Rendering",
+      "Swift"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job080",
+    "title": "Quantum Computing Researcher",
+    "company": "IBM",
+    "skills": [
+      "Quantum Computing",
+      "Python",
+      "Physics",
+      "Qiskit",
+      "Linear Algebra",
+      "Algorithms"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job081",
+    "title": "Network Security Engineer",
+    "company": "Cisco",
+    "skills": [
+      "Network Security",
+      "Firewall",
+      "VPN",
+      "IDS/IPS",
+      "SIEM",
+      "Security Architecture"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job082",
+    "title": "Jamstack Developer",
+    "company": "Netlify",
+    "skills": [
+      "JavaScript",
+      "Static Site Generators",
+      "Headless CMS",
+      "APIs",
+      "Next.js",
+      "GraphQL"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job083",
+    "title": "Search Engineer",
+    "company": "Algolia",
+    "skills": [
+      "Elasticsearch",
+      "Search Algorithms",
+      "Relevancy Tuning",
+      "NLP",
+      "Python",
+      "Indexing"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job084",
+    "title": "Wearable Technology Developer",
+    "company": "Fitbit",
+    "skills": [
+      "iOS",
+      "Android",
+      "Bluetooth",
+      "Embedded Systems",
+      "Health Data",
+      "Swift",
+      "Kotlin"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job085",
+    "title": "Natural Language Processing Scientist",
+    "company": "Google",
+    "skills": [
+      "NLP",
+      "Machine Learning",
+      "Deep Learning",
+      "BERT",
+      "Python",
+      "Research",
+      "Linguistics"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job086",
+    "title": "Container Platform Engineer",
+    "company": "Docker",
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "Container Orchestration",
+      "Linux",
+      "Networking",
+      "Security"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job087",
+    "title": "Localization Engineer",
+    "company": "Duolingo",
+    "skills": [
+      "i18n",
+      "l10n",
+      "JavaScript",
+      "React",
+      "CMS Integration",
+      "Translation Management"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job088",
+    "title": "Scala Developer",
+    "company": "Twitter",
+    "skills": [
+      "Scala",
+      "Akka",
+      "Functional Programming",
+      "Distributed Systems",
+      "Play Framework"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job089",
+    "title": "Game Client Developer",
+    "company": "Epic Games",
+    "skills": [
+      "Unity",
+      "C#",
+      "Mobile Graphics",
+      "Game Optimization",
+      "UI/UX for Games",
+      "Animation"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job090",
+    "title": "AI Ethics Researcher",
+    "company": "DeepMind",
+    "skills": [
+      "AI Ethics",
+      "Machine Learning",
+      "Policy",
+      "Research",
+      "Python",
+      "Data Analysis"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job091",
+    "title": "Cloud Cost Optimization Specialist",
+    "company": "AWS",
+    "skills": [
+      "AWS",
+      "Cost Optimization",
+      "CloudWatch",
+      "Infrastructure as Code",
+      "Financial Analysis"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job092",
+    "title": "Design Systems Engineer",
+    "company": "Figma",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Design Systems",
+      "Component Libraries",
+      "Accessibility",
+      "CSS"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job093",
+    "title": "Event-Driven Architecture Specialist",
+    "company": "Confluent",
+    "skills": [
+      "Kafka",
+      "Event Sourcing",
+      "Microservices",
+      "Java",
+      "System Design",
+      "Message Queues"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job094",
+    "title": "IoT Developer",
+    "company": "Samsung",
+    "skills": [
+      "IoT",
+      "Embedded Systems",
+      "Bluetooth",
+      "WiFi",
+      "MQTT",
+      "Python",
+      "C"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job095",
+    "title": "Deep Learning Engineer",
+    "company": "NVIDIA",
+    "skills": [
+      "Deep Learning",
+      "PyTorch",
+      "Computer Vision",
+      "CUDA",
+      "Model Optimization"
+    ],
+    "role_type": "data"
+  },
+  {
+    "id": "job096",
+    "title": "Infrastructure Automation Engineer",
+    "company": "Terraform",
+    "skills": [
+      "Terraform",
+      "Cloud Infrastructure",
+      "IaC",
+      "AWS",
+      "CI/CD",
+      "Python",
+      "Security"
+    ],
+    "role_type": "devops"
+  },
+  {
+    "id": "job097",
+    "title": "Micro-Frontend Architect",
+    "company": "Zalando",
+    "skills": [
+      "Micro-Frontends",
+      "JavaScript",
+      "Web Components",
+      "Module Federation",
+      "React"
+    ],
+    "role_type": "frontend"
+  },
+  {
+    "id": "job098",
+    "title": "Streaming Data Engineer",
+    "company": "Confluent",
+    "skills": [
+      "Kafka",
+      "Stream Processing",
+      "Java",
+      "Distributed Systems",
+      "Real-time Analytics"
+    ],
+    "role_type": "backend"
+  },
+  {
+    "id": "job099",
+    "title": "Embedded Systems Developer",
+    "company": "Tesla",
+    "skills": [
+      "C++",
+      "Embedded Systems",
+      "RTOS",
+      "Firmware",
+      "Hardware Interfaces",
+      "Testing"
+    ],
+    "role_type": "mobile"
+  },
+  {
+    "id": "job100",
+    "title": "FinTech Software Engineer",
+    "company": "Plaid",
+    "skills": [
+      "JavaScript",
+      "Node.js",
+      "React",
+      "API Integration",
+      "Security",
+      "Financial Systems"
+    ],
+    "role_type": "fullstack"
+  }
+]

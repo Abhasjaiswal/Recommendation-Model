@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "name": "Alex Johnson",
+    "skills": [
+      "Python",
+      "SQL",
+      "Data Analysis",
+      "Machine Learning",
+      "Statistics"
+    ],
+    "primary_focus": "Data Science",
+    "experience_years": 5
+  },
+  {
+    "id": 2,
+    "name": "Taylor Smith",
+    "skills": ["JavaScript", "React", "HTML", "CSS", "Node.js"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 3
+  },
+  {
+    "id": 3,
+    "name": "Jordan Lee",
+    "skills": ["Java", "Spring", "Hibernate", "SQL", "Microservices"],
+    "primary_focus": "Backend Development",
+    "experience_years": 7
+  },
+  {
+    "id": 4,
+    "name": "Casey Wilson",
+    "skills": ["Python", "Django", "PostgreSQL", "Docker", "RESTful APIs"],
+    "primary_focus": "Backend Development",
+    "experience_years": 4
+  },
+  {
+    "id": 5,
+    "name": "Morgan Davis",
+    "skills": ["AWS", "Terraform", "Docker", "Kubernetes", "CI/CD"],
+    "primary_focus": "DevOps",
+    "experience_years": 6
+  },
+  {
+    "id": 6,
+    "name": "Riley Brown",
+    "skills": ["Swift", "Objective-C", "iOS", "UIKit", "Core Data"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 5
+  },
+  {
+    "id": 7,
+    "name": "Jamie Garcia",
+    "skills": ["Kotlin", "Android SDK", "Firebase", "Jetpack Compose", "Room"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 4
+  },
+  {
+    "id": 8,
+    "name": "Quinn Martinez",
+    "skills": ["C#", ".NET", "Azure", "SQL Server", "Entity Framework"],
+    "primary_focus": "Backend Development",
+    "experience_years": 8
+  },
+  {
+    "id": 9,
+    "name": "Avery Robinson",
+    "skills": [
+      "UX Research",
+      "Wireframing",
+      "Prototyping",
+      "User Testing",
+      "Figma"
+    ],
+    "primary_focus": "UX Design",
+    "experience_years": 3
+  },
+  {
+    "id": 10,
+    "name": "Sam Thompson",
+    "skills": [
+      "UI Design",
+      "Design Systems",
+      "Visual Design",
+      "Adobe XD",
+      "Sketch"
+    ],
+    "primary_focus": "UI Design",
+    "experience_years": 4
+  },
+  {
+    "id": 11,
+    "name": "Reese Clark",
+    "skills": ["TypeScript", "Angular", "RxJS", "NgRx", "Material Design"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 5
+  },
+  {
+    "id": 12,
+    "name": "Drew Lewis",
+    "skills": ["Vue.js", "Vuex", "Nuxt.js", "CSS", "JavaScript"],
+    "primary_focus": "Frontend Development",
+    "experience_years": 2
+  },
+  {
+    "id": 13,
+    "name": "Blake Turner",
+    "skills": ["Go", "gRPC", "Docker", "PostgreSQL", "Microservices"],
+    "primary_focus": "Backend Development",
+    "experience_years": 4
+  },
+  {
+    "id": 14,
+    "name": "Charlie Mitchell",
+    "skills": ["Ruby", "Rails", "PostgreSQL", "Redis", "Sidekiq"],
+    "primary_focus": "Backend Development",
+    "experience_years": 6
+  },
+  {
+    "id": 15,
+    "name": "Jordan Phillips",
+    "skills": ["PHP", "Laravel", "MySQL", "Redis", "Apache"],
+    "primary_focus": "Backend Development",
+    "experience_years": 5
+  },
+  {
+    "id": 16,
+    "name": "Hayden Baker",
+    "skills": ["Python", "TensorFlow", "Keras", "scikit-learn", "PyTorch"],
+    "primary_focus": "Machine Learning",
+    "experience_years": 3
+  },
+  {
+    "id": 17,
+    "name": "Kai Wright",
+    "skills": ["AWS", "Google Cloud", "Azure", "Terraform", "Ansible"],
+    "primary_focus": "Cloud Architecture",
+    "experience_years": 7
+  },
+  {
+    "id": 18,
+    "name": "Peyton King",
+    "skills": ["GraphQL", "Apollo", "React", "Node.js", "MongoDB"],
+    "primary_focus": "Full Stack Development",
+    "experience_years": 4
+  },
+  {
+    "id": 19,
+    "name": "Rowan Scott",
+    "skills": ["Scala", "Akka", "Play Framework", "Spark", "Kafka"],
+    "primary_focus": "Big Data",
+    "experience_years": 6
+  },
+  {
+    "id": 20,
+    "name": "Finley Cooper",
+    "skills": ["Solidity", "Ethereum", "Smart Contracts", "Web3.js", "Truffle"],
+    "primary_focus": "Blockchain Development",
+    "experience_years": 2
+  },
+  {
+    "id": 21,
+    "name": "Jesse Rogers",
+    "skills": [
+      "Cybersecurity",
+      "Penetration Testing",
+      "Network Security",
+      "Cryptography",
+      "Security Auditing"
+    ],
+    "primary_focus": "Security",
+    "experience_years": 8
+  },
+  {
+    "id": 22,
+    "name": "River Reed",
+    "skills": [
+      "Product Management",
+      "Agile",
+      "Scrum",
+      "User Stories",
+      "Roadmapping"
+    ],
+    "primary_focus": "Product Management",
+    "experience_years": 5
+  },
+  {
+    "id": 23,
+    "name": "Cameron Howard",
+    "skills": ["R", "Statistics", "Data Visualization", "Tableau", "Power BI"],
+    "primary_focus": "Data Analysis",
+    "experience_years": 4
+  },
+  {
+    "id": 24,
+    "name": "Skyler Lopez",
+    "skills": [
+      "Unity",
+      "C#",
+      "3D Modeling",
+      "Game Physics",
+      "Shader Programming"
+    ],
+    "primary_focus": "Game Development",
+    "experience_years": 3
+  },
+  {
+    "id": 25,
+    "name": "Parker Cox",
+    "skills": [
+      "SEO",
+      "SEM",
+      "Google Analytics",
+      "A/B Testing",
+      "Content Marketing"
+    ],
+    "primary_focus": "Digital Marketing",
+    "experience_years": 5
+  },
+  {
+    "id": 26,
+    "name": "Dakota Ramirez",
+    "skills": [
+      "Elasticsearch",
+      "Logstash",
+      "Kibana",
+      "Data Engineering",
+      "ETL"
+    ],
+    "primary_focus": "Data Engineering",
+    "experience_years": 4
+  },
+  {
+    "id": 27,
+    "name": "Elliott Morris",
+    "skills": [
+      "Salesforce",
+      "Apex",
+      "Lightning Web Components",
+      "SOQL",
+      "Visualforce"
+    ],
+    "primary_focus": "Salesforce Development",
+    "experience_years": 6
+  },
+  {
+    "id": 28,
+    "name": "Bailey White",
+    "skills": ["SAP", "ABAP", "SAP HANA", "SAP Fiori", "Business Processes"],
+    "primary_focus": "ERP Systems",
+    "experience_years": 9
+  },
+  {
+    "id": 29,
+    "name": "Corey Richardson",
+    "skills": [
+      "Technical Writing",
+      "Documentation",
+      "API Documentation",
+      "UX Writing",
+      "Style Guides"
+    ],
+    "primary_focus": "Technical Writing",
+    "experience_years": 4
+  },
+  {
+    "id": 30,
+    "name": "Emerson Butler",
+    "skills": [
+      "Quality Assurance",
+      "Automated Testing",
+      "Selenium",
+      "Jest",
+      "Test Planning"
+    ],
+    "primary_focus": "Quality Assurance",
+    "experience_years": 5
+  },
+  {
+    "id": 31,
+    "name": "Ash Bennett",
+    "skills": [
+      "Database Administration",
+      "PostgreSQL",
+      "Oracle",
+      "SQL Server",
+      "Performance Tuning"
+    ],
+    "primary_focus": "Database Administration",
+    "experience_years": 7
+  },
+  {
+    "id": 32,
+    "name": "Harper Coleman",
+    "skills": [
+      "Information Architecture",
+      "Content Strategy",
+      "Wireframing",
+      "User Flows",
+      "Site Mapping"
+    ],
+    "primary_focus": "Information Architecture",
+    "experience_years": 3
+  },
+  {
+    "id": 33,
+    "name": "Sage Peterson",
+    "skills": [
+      "AWS Lambda",
+      "Serverless",
+      "API Gateway",
+      "DynamoDB",
+      "CloudFormation"
+    ],
+    "primary_focus": "Serverless Architecture",
+    "experience_years": 3
+  },
+  {
+    "id": 34,
+    "name": "Phoenix Gray",
+    "skills": ["Flutter", "Dart", "Mobile UI", "State Management", "Firebase"],
+    "primary_focus": "Mobile Development",
+    "experience_years": 2
+  },
+  {
+    "id": 35,
+    "name": "Marley James",
+    "skills": [
+      "React Native",
+      "JavaScript",
+      "Mobile UI",
+      "Redux",
+      "Native Modules"
+    ],
+    "primary_focus": "Mobile Development",
+    "experience_years": 3
+  },
+  {
+    "id": 36,
+    "name": "Kendall Foster",
+    "skills": ["Embedded Systems", "C", "C++", "Microcontrollers", "IoT"],
+    "primary_focus": "Embedded Systems",
+    "experience_years": 8
+  },
+  {
+    "id": 37,
+    "name": "Ari Hughes",
+    "skills": [
+      "Rust",
+      "Systems Programming",
+      "WebAssembly",
+      "Performance Optimization",
+      "Concurrency"
+    ],
+    "primary_focus": "Systems Programming",
+    "experience_years": 4
+  },
+  {
+    "id": 38,
+    "name": "Dallas Russell",
+    "skills": [
+      "Project Management",
+      "Agile",
+      "Scrum Master",
+      "Jira",
+      "Risk Management"
+    ],
+    "primary_focus": "Project Management",
+    "experience_years": 6
+  },
+  {
+    "id": 39,
+    "name": "Sage Reynolds",
+    "skills": [
+      "Network Engineering",
+      "Cisco",
+      "Routing",
+      "Switching",
+      "Network Security"
+    ],
+    "primary_focus": "Network Engineering",
+    "experience_years": 9
+  },
+  {
+    "id": 40,
+    "name": "Micah Walsh",
+    "skills": [
+      "Compliance",
+      "GDPR",
+      "HIPAA",
+      "Security Policies",
+      "Risk Assessment"
+    ],
+    "primary_focus": "Compliance",
+    "experience_years": 7
+  },
+  {
+    "id": 41,
+    "name": "Dana Flynn",
+    "skills": [
+      "Natural Language Processing",
+      "BERT",
+      "Transformer Models",
+      "spaCy",
+      "Text Classification"
+    ],
+    "primary_focus": "NLP",
+    "experience_years": 3
+  },
+  {
+    "id": 42,
+    "name": "Indigo Black",
+    "skills": [
+      "Computer Vision",
+      "OpenCV",
+      "CNN",
+      "Object Detection",
+      "Image Processing"
+    ],
+    "primary_focus": "Computer Vision",
+    "experience_years": 4
+  },
+  {
+    "id": 43,
+    "name": "Rory Sullivan",
+    "skills": [
+      "Site Reliability Engineering",
+      "Prometheus",
+      "Grafana",
+      "Alert Management",
+      "Incident Response"
+    ],
+    "primary_focus": "SRE",
+    "experience_years": 5
+  },
+  {
+    "id": 44,
+    "name": "Jules Campbell",
+    "skills": ["AR/VR Development", "Unity", "ARKit", "ARCore", "3D Modeling"],
+    "primary_focus": "AR/VR",
+    "experience_years": 2
+  },
+  {
+    "id": 45,
+    "name": "Shawn Watson",
+    "skills": [
+      "Content Creation",
+      "Video Editing",
+      "Motion Graphics",
+      "Adobe Creative Suite",
+      "Storytelling"
+    ],
+    "primary_focus": "Content Creation",
+    "experience_years": 4
+  },
+  {
+    "id": 46,
+    "name": "Angel Murphy",
+    "skills": [
+      "Firmware Development",
+      "Embedded C",
+      "RTOS",
+      "Hardware Interfaces",
+      "Device Drivers"
+    ],
+    "primary_focus": "Firmware",
+    "experience_years": 6
+  },
+  {
+    "id": 47,
+    "name": "Lane McCarthy",
+    "skills": [
+      "Quantum Computing",
+      "Qiskit",
+      "Quantum Algorithms",
+      "Q#",
+      "Quantum Simulation"
+    ],
+    "primary_focus": "Quantum Computing",
+    "experience_years": 2
+  },
+  {
+    "id": 48,
+    "name": "Robin Stone",
+    "skills": [
+      "Robotic Process Automation",
+      "UiPath",
+      "Blue Prism",
+      "Automation Anywhere",
+      "Process Analysis"
+    ],
+    "primary_focus": "RPA",
+    "experience_years": 3
+  },
+  {
+    "id": 49,
+    "name": "Jessie Nguyen",
+    "skills": [
+      "Data Privacy",
+      "Privacy Engineering",
+      "GDPR Implementation",
+      "Data Minimization",
+      "PII Protection"
+    ],
+    "primary_focus": "Data Privacy",
+    "experience_years": 5
+  },
+  {
+    "id": 50,
+    "name": "Tyler Harrison",
+    "skills": [
+      "Accessibility",
+      "WCAG",
+      "Screen Reader Testing",
+      "Inclusive Design",
+      "Accessibility Auditing"
+    ],
+    "primary_focus": "Accessibility",
+    "experience_years": 4
+  },
+  {
+    "id":51,
+    "name":"Abhas Jaiswal",
+    "skills":[
+      "React Native",
+      "React"
+    ],
+    "primary_focus":"Frontend Development",
+    "experience_years":2
+  }
+]
